@@ -1,2 +1,4 @@
 # Hello-World-20181109
-new start
+This is a new start for GitHub.
+I am XiangBian,I'm waiting for you!.
+Today is a nice day,amazing!
